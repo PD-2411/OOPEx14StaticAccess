@@ -38,5 +38,7 @@ namespace StaticClassConsole
             } while (Console.ReadLine().ToLower() != "n");
             Console.ReadLine();
         }
+
+
     }
 }
