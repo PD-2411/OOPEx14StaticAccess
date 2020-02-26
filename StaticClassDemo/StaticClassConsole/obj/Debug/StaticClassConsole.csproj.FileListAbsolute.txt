@@ -1,0 +1,9 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\bin\Debug\StaticClassConsole.exe.config
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\bin\Debug\StaticClassConsole.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\bin\Debug\StaticClassConsole.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\bin\Debug\StaticClassDemo.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\bin\Debug\StaticClassDemo.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\obj\Debug\StaticClassConsole.csprojAssemblyReference.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\obj\Debug\StaticClassConsole.csproj.CopyComplete
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\obj\Debug\StaticClassConsole.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassConsole\obj\Debug\StaticClassConsole.pdb

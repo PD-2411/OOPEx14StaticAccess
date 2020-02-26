@@ -1,0 +1,5 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csprojAssemblyReference.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
